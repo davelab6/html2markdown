@@ -1,0 +1,2 @@
+#input-output
+<div attribute="foo&quot;&apos;&amp;bar">foo</div>

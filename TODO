@@ -1,0 +1,26 @@
+markdown.py confirmed bugs (BUT NEED TO CHECK CVS/WHATEVER):
+
+* Can't handle a preformatted block on the first line
+** CodeBlock
+** MarkdownCodeBlocks3
+* Disagrees with Markdown.pl on explicit paragraphs in lists
+** ExplicitParagraphFirstOnlyWithSublistOnFirstElement
+** ExplicitParagraphInLastOrderedListElement
+** ExplicitParagraphInLastUnorderedListElement
+** ExplicitParagraphOnLastItemWithSublist
+** ListInBlockQuoteInList
+** MixedListsBlockQuoteCodeBlocks
+** WrappingMultiParagraphOrderedList
+** WrappingMultiParagraphUnorderedList
+* Doesn't make a horizontal rule in a block quote
+** HorizontalRuleInBlockQuote
+
+* Doesn't get nested list after second paragraph right
+** MultiParagraphListItemWithSublist
+
+* Doesn't seem to handle two consecutive line breaks in a list
+** TwoLineBreaksInUnorderedList
+
+* Can't handle a paragraph consisting of just an entity
+** UnknownEntity
+** UnprintableNumericEntity

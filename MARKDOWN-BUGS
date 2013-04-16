@@ -1,0 +1,11 @@
+1. foo
+   > bar
+
+(but you can put a nested list right after a list item?  both block)
+
+=====================================================================
+
+1. eek
+
+    this should be preformatted but instead it's just another p in li
+    how do you even put a preformatted block here?

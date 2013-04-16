@@ -1,0 +1,6 @@
+#input-output
+<p class="foo">Markdown **not** recognized here.</p>
+
+foo <img eek="baz_not_em" /> bar.  foo <a
+href="http://localhost/foo_bar" something="baz">eek</a> bar.  foo
+<code style="what_ever_dude">baz</code> bar.

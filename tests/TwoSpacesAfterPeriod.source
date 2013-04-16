@@ -1,0 +1,4 @@
+#input
+this.  is two   spaces.  after some periods.    that was four.
+#output
+this.  is two spaces.  after some periods.  that was four.

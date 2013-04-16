@@ -1,0 +1,9 @@
+#input-output
+*   Foo
+
+    1.  You need a semi-working web application to test this.  You
+        can't test before you write code.
+    2.  This seems prone to breakage when you change things in the
+        HTML, maybe form field names, etc.
+
+    Bar

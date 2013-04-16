@@ -1,0 +1,14 @@
+#input-output
+1.  foo
+
+    > foo
+    >
+    > 1.  eek
+    > 2.  foof
+    >
+    >         snax
+2.  smooch
+
+    > kree
+    >
+    >     smoo
